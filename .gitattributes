@@ -1,2 +1,2 @@
 *.shell linguist-detectable=true
-
+*.tex linguist-language=Shell
