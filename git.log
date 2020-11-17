@@ -1,0 +1,59 @@
+commit 88fdd3adbb7b9c9be1f45eb407dbbf5b35a1f9b2
+Author: bw2u18 <bw2u18@soton.ac.uk>
+Date:   Fri Mar 8 16:22:51 2019 +0000
+
+    Sorts through the files and prints them from highest to lowest rating.
+
+commit 764d671584e78d611c9885314b630894b2b50950
+Author: bw2u18 <bw2u18@soton.ac.uk>
+Date:   Fri Mar 8 16:20:26 2019 +0000
+
+    Prints the name of the hotel and its respected review rating to 2dp.
+
+commit 8762c91de91e813ebcf8ced241dff62784fcb40c
+Author: bw2u18 <bw2u18@soton.ac.uk>
+Date:   Fri Mar 8 16:16:17 2019 +0000
+
+    Rmoves "Overall" from hotel data using awk and sub
+
+commit 769c7a0bd7b64a7946898634afd6396993afb663
+Author: bw2u18 <bw2u18@soton.ac.uk>
+Date:   Fri Mar 8 16:07:21 2019 +0000
+
+    Prints the name of the hotel and uses sed to remove the ".dat" extension of file
+
+commit b38ca4703e85aad2785cc928217e989976bba021
+Author: bw2u18 <bw2u18@soton.ac.uk>
+Date:   Fri Mar 8 16:02:39 2019 +0000
+
+    For loop to sort through files which end in ".dat" (hotel files)
+
+commit 69969b099aa85624285f466171b21c14dfa16b9d
+Author: bw2u18 <bw2u18@soton.ac.uk>
+Date:   Mon Mar 4 15:27:46 2019 +0000
+
+    Correction: changed ' to " after sed
+
+commit 2858e89ce4cc2180cdc6a2c474f8a858aaa841c9
+Author: bw2u18 <bw2u18@soton.ac.uk>
+Date:   Mon Mar 4 15:16:19 2019 +0000
+
+    Sort to rank the number of reviews per hotel from most to least
+
+commit 3352c96ecf7c4a9f6d7dbe0f07dbad01f6d191d0
+Author: bw2u18 <bw2u18@soton.ac.uk>
+Date:   Mon Mar 4 15:12:04 2019 +0000
+
+    Prints the number of reviews per hotel by taking a sum of Authors
+
+commit fe5c6379544dfe286de9bbbee94cbbeec8a779dd
+Author: bw2u18 <bw2u18@soton.ac.uk>
+Date:   Mon Mar 4 15:03:28 2019 +0000
+
+    Introduced the sed command so loop deletes  ".dat" extension on hotel files
+
+commit ca58886b392a12492407df9f37b847885144a39a
+Author: bw2u18 <bw2u18@soton.ac.uk>
+Date:   Mon Mar 4 14:52:31 2019 +0000
+
+    Created a for loop to loop through files
